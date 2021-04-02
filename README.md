@@ -10,7 +10,7 @@ The requests are then processed to determine if they are a potential DGA or not.
 ## Install
 
 ```python
-git clone https://github.com/philarkwright/DGA-Detection.git  
+git clone https://github.com/justknife/DGA-Detection-v2.git  
 cd DGA-Detection  
 chmod +x install.sh
 ./install.sh
